@@ -59,6 +59,7 @@ __2. Machine Learning Model__
 __3. Visualization__
 
 - Folium
+- Mapboxgl
 
 __4. Preprocessing__
 
