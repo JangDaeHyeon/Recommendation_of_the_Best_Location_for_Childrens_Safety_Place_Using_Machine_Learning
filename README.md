@@ -72,4 +72,4 @@ __4. Preprocessing__
 ## 5️⃣ Structure
 
 
-## 6️⃣ Reference
+## 6️⃣ References
