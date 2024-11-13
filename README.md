@@ -164,19 +164,19 @@ __4. Preprocessing__
 ```
 Recommendation of the Best Location for Childrens Safety Place Using Machine Learning
 ├── README.md
-├── data
-│   ├── educational_institutions_by_region
-│   │   ├── Gochang_unified.csv
-│   │   ├── Deokjin_unified.csv
+├── Data
+│   ├── 각 지역 교육기관 위치
+│   │   ├── 고창군_통합.csv
+│   │   ├── 덕진구_통합.csv
 │   │   └── ...
 │   │
-│   ├── safety_houses_by_region
-│   │   ├── Gochang_safety_house.csv
-│   │   ├── Deokjin_safety_house.csv
+│   ├── 각 지역 지킴이집 위치
+│   │   ├── 고창군_지킴이집.csv
+│   │   ├── 덕진구_지킴이.csv
 │   │   └── ...
 │   │
-│   ├── Jeollabukdo_district_location_info.json
-│   └── resident_count_by_district_20220629145146.csv
+│   ├── 전라북도 시군구 위치 정보.json
+│   └── 행정구역_시군구_별_주민등록세대수.csv
 │
 ├── code
 │   ├── Scikit-Learn
