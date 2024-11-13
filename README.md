@@ -79,6 +79,10 @@ __4. Preprocessing__
 ![image](https://github.com/user-attachments/assets/634afea9-b954-4bb6-b25f-af9aee200f99)
 
 ### 4-2. Data Introduction
+* [전라북도 시군구 위치 정보.json](https://muddy-sundial-48d.notion.site/Folium-30c9e3098756463e9edde541be1dc9fa)
+    - Folium을 활용해 전라북도 시각화 하기 위한 방법 소개(전라북도의 각 시군구의 위도, 경도 테두리 데이터를 얻는 방법)
+      ![image](https://github.com/user-attachments/assets/62328fef-35db-4724-a6a8-46a0c004c78d)
+
 * [전북특별자치도교육청_학교현황](https://www.data.go.kr/data/3068876/fileData.do?recommendDataYn=Y)
     - 전라북도에 위치한 초등학교, 중학교, 고등학교의 위치를 얻을 수 있는 데이터입니다.
 * [국토교통부_아동안전지킴이집](https://www.data.go.kr/data/15057866/openapi.do)
