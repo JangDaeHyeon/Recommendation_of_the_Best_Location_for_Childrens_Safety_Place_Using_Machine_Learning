@@ -165,33 +165,30 @@ __4. Preprocessing__
 Recommendation of the Best Location for Childrens Safety Place Using Machine Learning
 ├── README.md
 ├── data
-│   ├── 각 지역 교육기관 위치
-│   │   ├── 고창군_통합.csv
-│   │   ├── 덕진구_통합.csv
+│   ├── educational_institutions_by_region
+│   │   ├── Gochang_unified.csv
+│   │   ├── Deokjin_unified.csv
 │   │   └── ...
 │   │
-│   ├── 각 지역 지킴이집 위치
-│   │   ├── 고창군_지킴이집.csv
-│   │   ├── 덕진구_지킴이집.csv
+│   ├── safety_houses_by_region
+│   │   ├── Gochang_safety_house.csv
+│   │   ├── Deokjin_safety_house.csv
 │   │   └── ...
 │   │
-│   ├── 전라북도_시군구_위치_정보.json
-│   └── 행정구역_시군구_별_주민등록세대수_20220629145146.csv
+│   ├── Jeollabukdo_district_location_info.json
+│   └── resident_count_by_district_20220629145146.csv
 │
-├── results
-│   ├── KMeans
-│   │   ├── Imsil_KMeans_Results       # 임실군 KMeans 최적화 결과
-│   │   └── Deokjin_KMeans_Results     # 덕진구 KMeans 최적화 결과
+├── code
+│   ├── Scikit-Learn
+│   │   ├── Elbow_Method.py
+│   │   ├── Silhouette_Method.py
+│   │   └── KMeans_Clustering.py
 │   │
-│   └── DBSCAN
-│       ├── Imsil_DBSCAN_Results       # 임실군 DBSCAN 최적화 결과
-│       └── Deokjin_DBSCAN_Results     # 덕진구 DBSCAN 최적화 결과
-│
-└── notebooks
-    ├── imsil_kmeans_clusters.ipynb
-    ├── deokjin_kmeans_clusters.ipynb
-    ├── imsil_dbscan_clusters.ipynb
-    └── deokjin_dbscan_clusters.ipynb
+│   ├── Geopy_and_KakaoGeopy.py
+│   ├── deokjin_dbscan_clusters.py
+│   ├── imsil_dbscan_clusters.py
+│   └── KMeans_Algorithm.py
+
 ```
 
 ## 6️⃣ References
