@@ -192,3 +192,11 @@ Recommendation of the Best Location for Childrens Safety Place Using Machine Lea
 ```
 
 ## 6️⃣ References
+* https://python-visualization.github.io/folium/latest/getting_started.html
+* https://github.com/mapbox/mapboxgl-jupyter
+* https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html#sphx-glr-auto-examples-cluster-plot-kmeans-digits-py
+* https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html
+* https://ariz1623.tistory.com/224
+* https://scikit-learn.org/dev/auto_examples/cluster/plot_dbscan.html
+* https://apis.map.kakao.com/web/documentation/
+* https://github.com/geopy/geopy
